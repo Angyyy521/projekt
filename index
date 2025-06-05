@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Проєкти учнів Logika</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <img src="logo.svg" alt="Логотип Logika" class="logo" />
+    <h1>Проєкти учнів Logika</h1>
+  </header>
+
+  <main>
+    <section class="projects">
+      <div class="project">
+        <span class="student-name">Іваненко Марія</span>
+        <a href="https://example.com/project1" class="project-button" target="_blank">Переглянути сайт</a>
+      </div>
+      <div class="project">
+        <span class="student-name">Петренко Олег</span>
+        <a href="https://example.com/project2" class="project-button" target="_blank">Переглянути сайт</a>
+      </div>
+      <div class="project">
+        <span class="student-name">Ковальчук Анна</span>
+        <a href="https://example.com/project3" class="project-button" target="_blank">Переглянути сайт</a>
+      </div>
+      <div class="project">
+        <span class="student-name">Шевченко Дмитро</span>
+        <a href="https://example.com/project4" class="project-button" target="_blank">Переглянути сайт</a>
+      </div>
+      <div class="project">
+        <span class="student-name">Мельник Олена</span>
+        <a href="https://example.com/project5" class="project-button" target="_blank">Переглянути сайт</a>
+      </div>
+      <div class="project">
+        <span class="student-name">Ткачук Андрій</span>
+        <a href="https://example.com/project6" class="project-button" target="_blank">Переглянути сайт</a>
+      </div>
+      <div class="project">
+        <span class="student-name">Сидоренко Наталія</span>
+        <a href="https://example.com/project7" class="project-button" target="_blank">Переглянути сайт</a>
+      </div>
+      <div class="project">
+        <span class="student-name">Бондаренко Юрій</span>
+        <a href="https://example.com/project8" class="project-button" target="_blank">Переглянути сайт</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Logika School</p>
+  </footer>
+</body>
+</html>
